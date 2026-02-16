@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "leads-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f04b7824-b955-4a23-9db8-22686189dab1",
+			"database_name": "LEADS-DB"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
